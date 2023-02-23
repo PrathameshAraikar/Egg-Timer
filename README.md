@@ -3,12 +3,12 @@ This is an Egg Timer app built with Swift that allows you to boil your eggs to p
 
 ## By building this app, I learnt the following concepts in Swift:
 
-Swift Collection types - Dictionaries
-The Swift Timer API
-Conditional statements - IF/ELSE
-Conditional statements - Switch
-Functions with outputs
-How to use the ProgressView
+- Swift Collection types - Dictionaries
+- The Swift Timer API
+- Conditional statements - IF/ELSE
+- Conditional statements - Switch
+- Functions with outputs
+- How to use the ProgressView
 
 ## Usage
 
